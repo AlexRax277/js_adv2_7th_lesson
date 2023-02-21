@@ -83,13 +83,13 @@ body {
 }
 
 .btnMod {
-    background: url(https://cdn-icons-png.flaticon.com/512/1024/1024143.png) center center no-repeat;
+    background: url('./app/pic/pen.png') center center no-repeat;
     background-size: 50%;
     right: 40px;
 }
 
 .btnDel {
-    background: url(https://cdn-icons-png.flaticon.com/512/4947/4947222.png) center center no-repeat;
+    background: url('./app/pic/cross.png') center center no-repeat;
     background-size: 50%;
     right: 10px;
 }
